@@ -1,0 +1,67 @@
+{
+    "total": {
+        "title": "你好",
+        "sell": 131215,
+        "todysell": 4325,
+        "visit": 14122,
+        "todyvisit": 427,
+        "collect": 755,
+        "todycollect": 45,
+        "pay": 421415,
+        "todypay": 3415
+    },
+    "fruits": {
+        "apple": {
+            "name": "苹果",
+            "sales": 80,
+            "saleroom": 8,
+            "amounts": 640
+        },
+        "orange": {
+            "name": "橘子",
+            "sales": 92,
+            "saleroom": 9,
+            "amounts": 828
+        },
+        "banana": {
+            "name": "香蕉",
+            "sales": 71,
+            "saleroom": 9,
+            "amounts": 639
+        },
+        "watermelon": {
+            "name": "西瓜",
+            "sales": 110,
+            "saleroom": 5,
+            "amounts": 550
+        },
+        "mango": {
+            "name": "芒果",
+            "sales": 62,
+            "saleroom": 10,
+            "amounts": 620
+        },
+        "grape": {
+            "name": "葡萄",
+            "sales": 40,
+            "saleroom": 15,
+            "amounts": 600
+        },
+        "pear": {
+            "name": "梨",
+            "sales": 95,
+            "saleroom": 6,
+            "amounts": 570
+        }
+    },
+    "tody":{
+        "order":253,
+        "accumn":367,
+        "amounts":4404
+    },
+    "month":{
+        "order":7302,
+        "accumn":9204,
+        "amounts":86424
+    }
+}
